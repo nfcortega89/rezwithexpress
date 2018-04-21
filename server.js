@@ -13,7 +13,7 @@ app.post('/send', (req, res, next) => {
     service: 'gmail',
     auth: {
       user: 'nfcortega89@gmail.com',
-      pass: 'Niggahigga1'
+      pass: 'Ilovesoda007'
     }
   });
   const mailOptions = {
